@@ -7,7 +7,7 @@
 - [Authorized functions and system calls](#authorized-functions-and-system-calls)
 - [Compilation](#compilation)
 - [Tasks](#tasks)
-- [Authors](#authors)
+
 
 ### Project Description
 Simple shell is a group project at ALX SE aimed to write a simple and customized  UNIX command interpreter.
@@ -237,7 +237,3 @@ Simple shell 1.0 +
 - - -
 
 
-### Authors:
-
-* [Mehari Hagos](https://github.com/Hagos2022)
-* [Hailemariam Gebremichael](https://github.com/haile7516)
